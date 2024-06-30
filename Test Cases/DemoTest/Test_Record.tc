@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Running test by record</description>
+   <name>Test_Record</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e36e55a-b97e-476e-9e20-de8e48ed8bfd</testCaseGuid>
+</TestCaseEntity>
